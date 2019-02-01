@@ -1,0 +1,25 @@
+#main {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+body {
+    font-family: 'Source Code Pro', monospace;
+}
+
+#inputs{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+
+button {
+ width: 75px;   
+ margin-top: 10px;
+}
+
+input {
+    margin: 5px;
+}
